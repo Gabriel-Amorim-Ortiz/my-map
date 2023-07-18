@@ -9,7 +9,7 @@ const Main = () => (
 
     <S.Description>TypeScript, React, NextJs e Styled Components</S.Description>
 
-    <S.Ilustration src='/img/hero-illustration.svg'  alt='Um desenvolvedor de frente para uma tela com código' />.
+    <S.Ilustration src='/img/hero-illustration.svg'  alt='Um desenvolvedor de frente para uma tela com código' />
 
   </S.Wrapper>
 )
