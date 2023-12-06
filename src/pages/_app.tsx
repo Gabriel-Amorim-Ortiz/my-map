@@ -17,7 +17,7 @@ function App ({ Component, pageProps}: AppProps) {
 
         <meta
          name="description"
-         content= "A simple project to show my favorits spots in the world" />
+         content= "A simple project to show my favoritsd " />
         
     </Head>
 
